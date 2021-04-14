@@ -17,3 +17,4 @@ When clicking a cat image, display the cat tags on the screen.
 - use Material Design components
 
 ## Sample screenshot
+![](https://github.com/indochat/interview-tests/blob/android/sample.jpg)
