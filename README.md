@@ -7,7 +7,7 @@ When clicking a cat image, display the cat **tags** (get from API) on the screen
 
 ## Requirement
 - build with Kotlin language
-- fetch the data from the REST API provided by https://cataas.com/#/
+- fetch the data from the REST API provided by [Cataas](https://cataas.com/#/)
 - show cats images
 - toast the cat's tags on the screen when clicking a cat image
 
@@ -17,7 +17,9 @@ When clicking a cat image, display the cat **tags** (get from API) on the screen
 - use Material Design components
 
 ## Image Url
-- https://cataas.com/cat/[cat_id]
+- format: https://cataas.com/cat/[cat_id]
+- example: https://cataas.com/cat/595f280a557291a9750ebf58 \
+![https://cataas.com/cat/595f280a557291a9750ebf58](https://cataas.com/cat/595f280a557291a9750ebf58)
 
 ## Sample screenshot
 ![](https://github.com/indochat/interview-tests/blob/android/sample.jpg)
